@@ -1,7 +1,7 @@
 # app.py
 # this is test commit for github 
 
-def add(a, b):
+def add(b, a):
     return a + b
 
 def test_add():
